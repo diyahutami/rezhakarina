@@ -3,13 +3,13 @@ body.boxed .wrapper {
 	border: 0;
 }
 h2 {
-	font-family: "Great Vibes", cursive;
+	font-family: "Dancing Script", cursive;
 }
 .heading {
 	margin-bottom: 30px;
 }
 .heading h2 {
-	font-family: "Great Vibes", cursive;
+	font-family: "Dancing Script", cursive;
 	font-size: 95px;
 	text-transform: none;
 	font-weight: 100;
@@ -30,7 +30,7 @@ h2 {
 	float: right;
 }
 .circle-2 h3 {
-	font-family: "Great Vibes", cursive;
+	font-family: "Dancing Script", cursive;
 	font-style: italic;
 	font-weight: 100;
 	line-height: 150%;
@@ -127,7 +127,7 @@ h2 {
 	z-index: 8;
 }
 .picture-legend {
-	font-family: "Great Vibes", cursive;
+	font-family: "Dancing Script", cursive;
 	font-size: 22px;
 	color: 777;
 	font-weight: 200;

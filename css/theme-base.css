@@ -115,21 +115,24 @@ h2 { font-size: 30px; }
 
 h3 { font-size: 24px; }
 
-h4 { font-size: 18px; }
+h4 { font-size: 21px; }
 
 h5 { font-size: 14px; }
 
 h6 { font-size: 12px; }
 
-h4 { font-weight: 600; }
+h4 { font-weight: 600;  }
 
 h5,
-h6 { font-weight: bold; margin-bottom: 20px; }
+h6 { font-weight: bold; margin-bottom: 20px;
+        margin-left: 190px;
+         }
 
 p,
 p.lead {
     color: #696f6f;
     margin-bottom: 20px;
+    
 }
 
 /* ----------------------------------------------------------------
@@ -3114,7 +3117,8 @@ body.device-xxs .text-medium-light {
     margin: 0px!important
 }
 .m-b-0 {
-    margin-bottom: 0px !important
+    margin-bottom: 0px !important;
+    margin-left:190px;
 }
 .m-b-5 {
     margin-bottom: 5px!important
